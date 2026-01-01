@@ -1,1 +1,3 @@
-# tsb-techs
+# tsb-techs script
+
+> Supported: Every executor
